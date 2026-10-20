@@ -4,7 +4,7 @@ Asistente de voz para Android. Este repositorio distribuye sus versiones instala
 
 ## Instalación y actualizaciones
 
-Las descargas se publicarán en [Releases](https://github.com/AxtandDiabolisis/artemisa-updates/releases). La primera publicación está pendiente.
+Descarga [Artemisa 0.2.0](https://github.com/AxtandDiabolisis/artemisa-updates/releases/tag/v0.2.0) desde Releases.
 
 En Artemisa 0.2.0 o posterior, abre **Ajustes**, pega esta dirección en **URL HTTPS de versiones**, guarda y pulsa **Buscar actualizaciones**:
 
@@ -12,7 +12,7 @@ En Artemisa 0.2.0 o posterior, abre **Ajustes**, pega esta dirección en **URL H
 https://github.com/AxtandDiabolisis/artemisa-updates/releases/latest/download/latest.json
 ```
 
-El enlace funcionará cuando exista una versión publicada con el archivo `latest.json` adjunto. Las actualizaciones requieren conexión y confirmación de instalación en Android.
+El enlace apunta al archivo `latest.json` de la versión más reciente publicada. Las actualizaciones requieren conexión y confirmación de instalación en Android.
 
 ## Funcionamiento sin conexión
 
